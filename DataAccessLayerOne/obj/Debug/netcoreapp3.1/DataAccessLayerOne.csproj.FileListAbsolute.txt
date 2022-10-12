@@ -1,0 +1,10 @@
+C:\Users\Rani Ghosh\source\assignment\DataAccessLayerOne\bin\Debug\netcoreapp3.1\DataAccessLayerOne.deps.json
+C:\Users\Rani Ghosh\source\assignment\DataAccessLayerOne\bin\Debug\netcoreapp3.1\DataAccessLayerOne.dll
+C:\Users\Rani Ghosh\source\assignment\DataAccessLayerOne\bin\Debug\netcoreapp3.1\DataAccessLayerOne.pdb
+C:\Users\Rani Ghosh\source\assignment\DataAccessLayerOne\obj\Debug\netcoreapp3.1\DataAccessLayerOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rani Ghosh\source\assignment\DataAccessLayerOne\obj\Debug\netcoreapp3.1\DataAccessLayerOne.AssemblyInfoInputs.cache
+C:\Users\Rani Ghosh\source\assignment\DataAccessLayerOne\obj\Debug\netcoreapp3.1\DataAccessLayerOne.AssemblyInfo.cs
+C:\Users\Rani Ghosh\source\assignment\DataAccessLayerOne\obj\Debug\netcoreapp3.1\DataAccessLayerOne.csproj.CoreCompileInputs.cache
+C:\Users\Rani Ghosh\source\assignment\DataAccessLayerOne\obj\Debug\netcoreapp3.1\DataAccessLayerOne.dll
+C:\Users\Rani Ghosh\source\assignment\DataAccessLayerOne\obj\Debug\netcoreapp3.1\DataAccessLayerOne.pdb
+C:\Users\Rani Ghosh\source\assignment\DataAccessLayerOne\obj\Debug\netcoreapp3.1\DataAccessLayerOne.csproj.AssemblyReference.cache
